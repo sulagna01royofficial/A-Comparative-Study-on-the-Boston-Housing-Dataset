@@ -189,6 +189,3 @@ Semester 3, MSc Data Science (2025–2027), St. Xavier's College (Autonomous), K
 - Sulagna Roy
 - Apratim Dey Tapadar
 
-## License
-
-<!-- Add a license if you plan to share this publicly, e.g. MIT -->
